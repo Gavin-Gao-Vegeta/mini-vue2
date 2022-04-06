@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "name": "mini-vue2",
+  "version": "1.0.0",
+  "description": "<!--  * @Descripttion:   * @version: 0.0.0  * @Author: gavin  * @Date: 2022-03-30 21:59:08  * @LastEditors: gavin  * @LastEditTime: 2022-03-30 22:00:07 --> # mini-vue2 # 实现vue2 #### 2022-03-30 1. 双向绑定",
+  "main": "index.js",
+  "bin": {
+    "mini-vue2": "bin/Observer.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gavin199508/mini-vue2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gavin199508/mini-vue2/issues"
+  },
+  "homepage": "https://github.com/Gavin199508/mini-vue2#readme"
+}
